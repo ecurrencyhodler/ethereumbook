@@ -2,35 +2,35 @@
 
 === What are tokens?
 
-The word _token_ derives from the Old English "tacen" meaning a sign or symbol. Commonly used to mean privately-issued coin-like items that have insignificant value, as used in transportation tokens, laundry tokens, arcade tokens.
+The word _token_ derives from the Old English "tacen" meaning a sign or symbol. Commonly used to mean privately-issued coin-like items that have insignificant value such as transportation tokens, laundry tokens, and arcade tokens.
 
 Nowadays, tokens based on blockchains are redefining the word to mean blockchain-based abstractions that can be owned and that represent assets, currency, or access rights.
 
-The association between the word "token" and insignificant value has a lot to do with the limited use of physical tokens. Often restricted to specific businesses, organizations or locations, physical tokens are not easily exchangeable and cannot be used for more than one function. With blockchain tokens, these restrictions are erased. Many of these tokens serve multiple purposes globally and can be traded for each other or for other currencies in global liquid markets. With those restrictions gone, the "insignificant value" expectation is also a thing of the past.
+The association between the word "token" and insignificant value has a lot to do with the limited use of physical tokens. Often restricted to specific businesses, organizations, or locations, physical tokens are not easily exchangeable and cannot be used for more than one function. With blockchain tokens, these restrictions are erased. Many of these tokens serve multiple purposes globally and can be traded for each other or for other currencies in global liquid markets. With those restrictions gone, the "insignificant value" expectation is also a thing of the past.
 
 In this section, we look at various uses for tokens and how they are created. We also discuss attributes of tokens such as fungibility and intrinsicality. Finally, we examine the standards and technologies that they are based on and experiment by building our own tokens.
 
 === How are tokens used?
 
-The most obvious use of tokens is as digital private currencies. However, this is only one possible use. Tokens can be programmed to serve many different functions, often overlapping. For example, a token can simultaneously convey a voting right, an access right, and ownership of a resource. Currency is just the first "app".
-
-Currency:: A token can serve as a form of currency, with a value determined through private trade. For example, ether or bitcoin.
-
-Resource:: A token can represent a resource earned or produced in a sharing-economy or resource-sharing environment. For example, a storage or CPU token representing resources that can be shared over a network.
-
-Asset:: A token can represent ownership of an intrinsic or extrinsic, tangible or intangible asset. For example, gold, real-estate, a car, oil, energy etc.
+The most obvious use of tokens is as digital private currencies. However, this is only one possible use. Tokens can be programmed to serve many different, often overlapping, functions. For example, a token can simultaneously convey a voting right, an access right, and ownership of a resource. Currency is just the first "app".  Below is a list of the many different ways Tokens can be used:
 
 Access:: A token can represent access rights and even convey access to a digital or physical property, such as a discussion forum, an exclusive website, a hotel room, a rental car.
 
-Equity:: A token can represent shareholder equity in a digital organization (e.g. a DAO) or legal fiction (e.g. a corporation)
+Asset:: A token can represent ownership of an intrinsic or extrinsic, tangible or intangible asset. For example, gold, real-estate, a car, oil, energy etc.
 
-Voting:: A token can represent voting rights in a digital or legal system.
+Attestation:: A token can represent a certification or attestation of fact by some authority or by a decentralized reputation system.
 
 Collectible:: A token can represent a digital (e.g. CryptoPunks) or physical collectible (e.g. a painting)
 
+Currency:: A token can serve as a form of currency, with a value determined through private trade. For example, ether or bitcoin.
+
+Equity:: A token can represent shareholder equity in a digital organization (e.g. a DAO) or legal fiction (e.g. a corporation)
+
 Identity:: A token can represent a digital (e.g. avatar) or legal identity (e.g. national ID).
 
-Attestation:: A token can represent a certification or attestation of fact by some authority or by a decentralized reputation system.
+Resource:: A token can represent a resource earned or produced in a sharing-economy or resource-sharing environment. For example, a storage or CPU token representing resources that can be shared over a network.
+
+Voting:: A token can represent voting rights in a digital or legal system.
 
 Often, a single token encompasses several of these functions. Sometimes it is hard to discern between them, as the physical equivalents have always been inextricably linked. For example, in the physical world, a driver's license (attestation) is also an identity document (identity) and the two cannot be separated. In the digital realm, previously commingled functions can be separated and developed independently (e.g. an anonymous attestation).
 
